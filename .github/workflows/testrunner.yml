@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: BQTO-90_WIN11
+    runs-on: WIN11_VM
 
     steps:
     - uses: actions/checkout@v3
