@@ -1,0 +1,99 @@
+# Build and object directories
+/obj/
+/bin/
+
+# Cache files
+*/bin/cache/
+
+# IDE files
+.vs/
+
+# User-specific files
+*.userprefs
+*.usertasks
+*.ruleset
+
+# Packages directory
+/packages/
+
+# Miscellaneous files and directories
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+*.userosscache
+*.log
+*.vspscc
+
+# Build results
+*[Dd]ebug/
+*[Rr]elease/
+*.dll
+*.pdb
+*.cache
+*.exe
+*.xml
+*.wasm
+*.wasm.gz
+*.br
+*.blat
+*.blat.cache
+*.manifest
+
+# NuGet
+**/packages/
+*.nupkg
+*.pdb
+*.dll
+*.exe
+*.snk
+*.cache
+*.log
+
+# MSTests
+_testresults/
+*.psess
+*.vsp
+
+# ReSharper files
+_ReSharper.*/
+
+# CodeRush
+_CodeRush.Attributes
+
+# Visual Studio files
+*.ncb
+*.suo
+*.aps
+*.clw
+*.pss
+*.sln.docstates
+*.pdb
+*.ilk
+*.msi
+*.config
+*.csproj.user
+*.deploy
+*.publishsettings
+*.pubxml
+*.pubxml.user
+*.rdlc
+*.cache
+*.vsz
+*.vssscc
+*.vdproj
+*.rdl
+*.bak
+*.tmp
+*.resx
+*.user
+*.scc
+*.vstemplate
+testsettings.targets
+*.tt
+*.tlog
+*.resharper
+
+# Other
+[Tt]humbs.db
+*.lnk
